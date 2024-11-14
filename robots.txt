@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aqattran.github.io/sitemap.xml
+Sitemap: https://aqattran.github.io/liDar-CUDA-Parallelization/sitemap.xml
