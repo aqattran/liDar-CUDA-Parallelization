@@ -57,7 +57,7 @@
           </li>
 
           <!-- Other pages 
-          {% assign sorted_pages = site.pages | sort: 'nav_order' %} -->
+          {% assign sorted_pages = site.pages | sort: 'nav_order' %} 
           {% for p in sorted_pages %}
             {% if p.nav and p.autogen == null %}
               {% if p.dropdown %}
@@ -115,7 +115,7 @@
                 <span class="nav-link">ctrl k <i class="ti ti-search"></i></span>
               </button>
             </li>
-          {% endif %}
+          {% endif %} -->
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
             <li class="toggle-container">
