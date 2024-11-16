@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cs.cmu.edu/afs/cs/academic/class/15418-f24/www/'>15418</a> Parallel Computer Architecture and Programming Final Project.
+subtitle: <a href='https://www.cs.cmu.edu/afs/cs/academic/class/15418-f24/www/'>15418</a> Parallel Computer Architecture and Programming Final Project. Created by Alice Tran (aqt) and Alex Blasberg (ablasber)
 
 profile:
   align: right
