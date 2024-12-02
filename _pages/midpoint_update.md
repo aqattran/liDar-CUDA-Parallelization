@@ -16,6 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+View our midpoint [here](https://docs.google.com/document/d/1MLtYLhmaWYhxVXP5Doyvv5CVxGbg0IdS6SBI8sdtQUQ/edit?usp=sharing)
+
 ### Milestone Progress
 We have maintained our progress and are currently still on schedule to complete all phases of our project. The original algorithm for ground filtering in python approximately took 40 ms. We explored three different iterations of possible algorithms in CUDA in order to see if they would improve the desired time. Similar to the original GraceAndConrad algorithm, we chose to divide the point cloud of information in individual buckets and cells. 
 
