@@ -3,7 +3,7 @@ layout: about
 title: midpoint 
 permalink: /midpoint/
 nav: true
-subtitle: 
+nav_order: 1
 
 profile:
   align: right
