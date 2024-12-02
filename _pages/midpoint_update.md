@@ -29,20 +29,23 @@ In our second iteration, we chose to take the three lowest points from each buck
 
 ### Updated Schedule
 
-| Dates     | Work                                                                                                                                   |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 12/1 - 12/4|  Begin Writing Summary and Background for Final Report  (Alice)
-Begin Parallelizing for Clustering (Alex) 
-Discussion on Final presentation poster format (Alice + Alex)
-|
-| 12/5 - 12/7 |Finish Clustering Algorithm (Alex)
-Implement visualization of objects and course (Alex)
-Approach Paper Writing Section (Alice)
-Gather/Create Graphics for final paper and presentation (Alice)|
-| 12/7 - 12/13| Downstream Filtering (Alex + Alice)
-Attempt Parallel Coloring
-Wrap up Paper + poster |
-| 12/13 | Presentation |     
+                                                                                                                        
+#### 12/1 - 12/4
+- Begin Writing Summary and Background for Final Report  (Alice)
+- Begin Parallelizing for Clustering (Alex) 
+- Discussion on Final presentation poster format (Alice + Alex)
+
+#### 12/5 - 12/7 
+- Finish Clustering Algorithm (Alex)
+- Implement visualization of objects and course (Alex)
+- Approach Paper Writing Section (Alice)
+- Gather/Create Graphics for final paper and presentation (Alice)|
+#### 12/7 - 12/13
+- Downstream Filtering (Alex + Alice)
+- Attempt Parallel Coloring
+- Wrap up Paper + poster 
+#### 12/13 
+- Presentation 
 
 ### Goals and Deliverables
 
