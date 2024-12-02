@@ -1,7 +1,8 @@
 ---
 layout: about
 title: midpoint 
-permalink: /midpoint
+permalink: /midpoint/
+nav: true
 subtitle: 
 
 profile:
