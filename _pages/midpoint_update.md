@@ -39,11 +39,13 @@ In our second iteration, we chose to take the three lowest points from each buck
 - Finish Clustering Algorithm (Alex)
 - Implement visualization of objects and course (Alex)
 - Approach Paper Writing Section (Alice)
-- Gather/Create Graphics for final paper and presentation (Alice)|
+- Gather/Create Graphics for final paper and presentation (Alice)
+  
 #### 12/7 - 12/13
 - Downstream Filtering (Alex + Alice)
 - Attempt Parallel Coloring
-- Wrap up Paper + poster 
+- Wrap up Paper + poster
+  
 #### 12/13 
 - Presentation 
 
