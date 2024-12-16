@@ -10,7 +10,7 @@ layout: default
 
 {% if page.banner %}
 
-<embed src="{{ '/assets/pdf/' | relative_url }}" width="600" height="500" type="application/pdf">
+<embed src="{{ '/assets/pdf/' | append: page.banner | relative_url }}" width="600" height="500" type="application/pdf">
 
 {% endif %}
 
@@ -22,7 +22,7 @@ layout: default
 <div id="pdf-viewer"></div>
 
 <script>
-  var url = "{{ '/assets/pdf/' | relative_url }}";
+  var url = "{{ '/assets/pdf/' | append: page.report | relative_url }}";
 
   // Using PDF.js to render the PDF in a div
   pdfjsLib.getDocument(url).promise.then(function(pdf) {
