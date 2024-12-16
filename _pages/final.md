@@ -1,20 +1,14 @@
 ---
-layout: about
+layout: final
 title: final
 permalink: /final/
 nav: true
 nav_order: 2
 
-profile:
-  align: right
-  image: 
-  image_circular: false # crops the image to make it circular
-  more_info:
-  
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+report: insert.pdf
 ---
+
+
 
 View our report [here](https://docs.google.com/document/d/1MLtYLhmaWYhxVXP5Doyvv5CVxGbg0IdS6SBI8sdtQUQ/edit?usp=sharing)
 
