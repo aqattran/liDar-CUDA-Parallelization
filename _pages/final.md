@@ -1,6 +1,6 @@
 ---
 layout: about
-title: midpoint 
+title: final
 permalink: /final/
 nav: true
 nav_order: 2
