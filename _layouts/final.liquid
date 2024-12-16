@@ -8,6 +8,12 @@ layout: default
   </style>
 {% endif %}
 
+{% if page.banner %}
+
+<embed src="{{ '/assets/pdf/' | relative_url }}" width="600" height="500" type="application/pdf">
+
+{% endif %}
+
 {% if page.report%}
  
 <!-- Include PDF.js library -->
