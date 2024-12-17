@@ -17,7 +17,7 @@ layout: default
 <div id="pdf-viewer"></div>
 
 <script>
-  var url = "{{ '/assets/pdf/' | append: page.report | relative_url }}";
+  var url = "{{ '/assets/pdf/' | append: page.banner | relative_url }}";
 
   // Using PDF.js to render the PDF in a div
   pdfjsLib.getDocument(url).promise.then(function(pdf) {
