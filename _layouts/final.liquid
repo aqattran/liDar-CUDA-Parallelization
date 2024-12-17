@@ -34,7 +34,7 @@ layout: default
         var canvas = document.createElement('canvas');
         document.getElementById('pdf-viewer').appendChild(canvas);
         var context = canvas.getContext('2d');
-        var viewport = page.getViewport({ scale: 0.6 });
+        var viewport = page.getViewport({ scale: 0.55 });
         canvas.height = viewport.height;
         canvas.width = viewport.width;
         page.render({ canvasContext: context, viewport: viewport });
@@ -47,7 +47,7 @@ layout: default
 
 {% if page.report%}
 
-<embed src="{{ '/assets/pdf/' | append: page.report | relative_url }}" width="1500" height="1000" type="application/pdf">
+<embed src="{{ '/assets/pdf/' | append: page.report | relative_url }}" width="1400" height="700" type="application/pdf">
 
 {% endif %}
 
