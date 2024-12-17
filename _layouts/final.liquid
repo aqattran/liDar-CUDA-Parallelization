@@ -8,13 +8,8 @@ layout: default
   </style>
 {% endif %}
 
+
 {% if page.banner %}
-
-<embed src="{{ '/assets/pdf/' | append: page.banner | relative_url }}" width="600" height="500" type="application/pdf">
-
-{% endif %}
-
-{% if page.report%}
  
 <!-- Include PDF.js library -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.8.335/pdf.min.js"></script>
@@ -41,6 +36,12 @@ layout: default
     }
   });
 </script>
+
+{% endif %}
+
+{% if page.report%}
+
+<embed src="{{ '/assets/pdf/' | append: page.report | relative_url }}" width="600" height="500" type="application/pdf">
 
 {% endif %}
 
