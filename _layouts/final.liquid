@@ -28,7 +28,7 @@ layout: default
         var canvas = document.createElement('canvas');
         document.getElementById('pdf-viewer').appendChild(canvas);
         var context = canvas.getContext('2d');
-        var viewport = page.getViewport({ scale: 1.0 });
+        var viewport = page.getViewport({ scale: 0.6 });
         canvas.height = viewport.height;
         canvas.width = viewport.width;
         page.render({ canvasContext: context, viewport: viewport });
